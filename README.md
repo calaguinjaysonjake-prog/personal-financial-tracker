@@ -1,5 +1,15 @@
 # Personal Financial Tracker
 
+Watch the project demo here: https://github.com/user-attachments/assets/9210225f-cde1-4511-875e-501a206289f4
+
+Group Members:
+- Adrian Ombac
+- Mac Rj Dela Crus
+- Eva Isabelle Cacdac
+- Jason Jake Calaquin
+- Rica Mae Odogan
+- Jinnis Soriano
+
 A full-stack Personal Financial Tracker application built with a **Flutter** frontend and an **Express.js** backend, using **MongoDB** for data persistence. This project demonstrates a modern approach to tracking personal finances with a clean, responsive UI and a robust RESTful API.
 
 ## 🚀 Features
